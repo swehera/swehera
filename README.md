@@ -1,6 +1,6 @@
-![MasterHead](https://imgs.search.brave.com/mT2PNe561Ko7Wdl56YqTzhYTTkrwe1-n_EO_1U10WPE/rs:fit:1200:840:1/g:ce/aHR0cHM6Ly9zdGF0/aWMxLm1ha2V1c2Vv/ZmltYWdlcy5jb20v/d29yZHByZXNzL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzEx/L2Rhcmstd2FsbHBh/cGVycy5qcGc)
-<h1 align="center">Hi 👋, I'm Noor Mohammad</h1>
-<h3 align="center">A MERN Stack Developer with agog appetite of Coding!</h3>
+![MasterHead](https://source.unsplash.com/random/100×100/?coding)
+<h1 align="center">Hi 👋, I'm Lutfor Rahman Hera</h1>
+<h3 align="center">A MERN Stack Developer in <b>adoff solution!</b></h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Projects & Profile [Personal Portfolio](https://noormohammad.reactbd.com/)
+- 🔭 Projects & Profile [Personal Portfolio](https://hera-portfolio-01.vercel.app/)
 
 - 🌱 Exercising [Nextjs, Tailwindcss, Next-auth, Sanity.io] along the way.
 
