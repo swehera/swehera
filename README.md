@@ -11,21 +11,11 @@
 
 - 🌱 Exercising [Nextjs, Tailwindcss, Next-auth, Sanity.io] along the way.
 
-- 🌱 Looking forward to learn [RUST](https://www.rust-lang.org/) in future.
-
 - 🌱 Find excitement learning [Blockchain](https://www.blockchain.com/) with javaScript.
 
-- 👨‍💻 Recent blog [Personal Blog - related to React Development & Cyber Security](https://blog.reactbd.com/)
+- 📫 How to reach me **devlutfor@gmail.com**
 
-- 📫 How to reach me **noor.jsdivs@gmail.com**
-
--  📫 Business chat **reactbd@proton.me**
-
-- Professional websites [ReactBD.com](https://reactbd.com/)
-
-- 📄 Best way to master the code is handle the [Error] efficiently.
-
-- 📄 Know about my experiences [https://www.noormohammad.live/](https://noormohammad.reactbd.com/))
+- 📄 Best way to master the code is to handle the [Error] efficiently.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
