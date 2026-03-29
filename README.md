@@ -88,14 +88,6 @@ const hera = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lutfor-hera&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
   <sub>⭐ <i>From <a href="https://github.com/lutfor-hera">Lutfor Rahman Hera</a> — Built with passion & caffeine ☕</i></sub>
