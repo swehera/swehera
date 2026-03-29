@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://hera-portfolio-01.vercel.app/" target="_blank">
+  <a href="https://dev-hira-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-0f0c29?style=for-the-badge&logoColor=white" />
   </a>
   <a href="mailto:devlutfor@gmail.com" target="_blank">
@@ -21,7 +21,7 @@
 ```ts
 const hera = {
   name        : "Lutfor Rahman Hera",
-  role        : "Full Stack Developer @ adoff solution",
+  role        : "Full Stack Software Developer",
   location    : "Bangladesh 🇧🇩",
   stack       : ["MongoDB", "Express", "React", "Node.js"],
   exploring   : ["Next.js", "React Native", "Docker", "PostgreSQL", "Java", "Blockchain"],
