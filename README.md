@@ -88,31 +88,10 @@ const hera = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lutfor-hera&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfor-hera&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lutfor-hera&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" width="60%" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lutfor-hera&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lutfor-hera&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
